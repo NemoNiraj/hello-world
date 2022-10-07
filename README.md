@@ -1,5 +1,2 @@
-# hello-world
-test
-hello;
-this is my first time
-doing some change
+# hello-world 
+You merely adopted the dark i was born in it 👨‍💻
